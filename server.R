@@ -10,7 +10,7 @@ library(dplyr)
 library(devtools)
 
 #set working directory
-setwd('C:\\Users\\lisar\\Documents\\R\\Coursera-SwiftKey\\final\\en_US\\LHR_Pub')
+#setwd('C:\\Users\\lisar\\Documents\\R\\Coursera-SwiftKey\\final\\en_US\\LHR_Pub')
 
 #function sources
 source("./clean_Functions.R", local = TRUE)
